@@ -265,6 +265,10 @@
     flex-wrap: wrap; */
 }
 
+.credits .header{
+    color: white;
+}
+
 .credit-cards .card{
     height: auto;
 
